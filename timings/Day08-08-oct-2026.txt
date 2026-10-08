@@ -1,0 +1,5 @@
+Docker and CI/CD Pipelines
+Terraform — EC2 with Security Group and EBS Volume
+Kubernetes — Service with NodePort
+Jenkinsfile — Docker Build and Push
+GitLab CI/CD — Build & Push Docker Image
