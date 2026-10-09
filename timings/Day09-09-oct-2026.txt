@@ -1,0 +1,4 @@
+Docker Integration with Jenkins & GitLab
+Terraform — EC2 with Auto Scaling Group
+Kubernetes — Horizontal Pod Autoscaler (HPA)
+GitLab CI/CD — Deploy to Kubernetes
