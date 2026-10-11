@@ -1,0 +1,7 @@
+Kubernetes with Helm, Advanced Terraform and GitLab CI/CD
+Ansible — Install Helm on Server
+Terraform — Provision EC2 with Elastic IP
+Kubernetes — Helm Chart for Nginx
+Jenkinsfile — Multi-Stage Pipeline
+GitLab CI/CD — Build, Push, and Deploy with Helm
+Docker
