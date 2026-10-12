@@ -1,0 +1,6 @@
+Scaling Applications and Automation
+Terraform — Create a Load Balancer with EC2 Instances
+Kubernetes — Horizontal Pod Autoscaler (HPA) with Load Balancer
+Jenkinsfile — Implement Parallel Stages
+GitLab CI/CD — Parallel Jobs for Build & Test
+Docker
