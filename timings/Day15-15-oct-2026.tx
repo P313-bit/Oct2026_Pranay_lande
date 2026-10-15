@@ -1,0 +1,6 @@
+Automation with Terraform, Ansible, and CI/CD Pipelines
+Terraform — Create EC2 with ALB (Application Load Balancer)
+Kubernetes — Helm Chart for Redis with Persistence
+Jenkinsfile — Multi-Environment Deployment
+GitLab CI/CD — Environment-Specific Deployments
+
