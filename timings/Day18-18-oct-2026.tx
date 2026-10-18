@@ -1,0 +1,7 @@
+High Availability, Multi-Region, and Auto-scaling
+Ansible — Configure HAProxy for Load Balancing
+Terraform — Multi-Region Auto-scaling Group with ALB
+Kubernetes — Horizontal Pod Autoscaler with Multiple Replicas
+Jenkinsfile — Blue-Green Deployment Strategy
+GitLab CI/CD — Blue-Green Deployment with Kubernetes
+
