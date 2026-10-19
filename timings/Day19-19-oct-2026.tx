@@ -1,0 +1,7 @@
+Advanced Monitoring, Logging, and Security
+Ansible — Setup Prometheus for Monitoring
+Terraform — Setup AWS CloudWatch for Monitoring
+Kubernetes — Deploy Fluentd for Logging
+Jenkinsfile — Integrating Prometheus Monitoring in Pipeline
+GitLab CI/CD — Prometheus and Logging Integration
+Docker
