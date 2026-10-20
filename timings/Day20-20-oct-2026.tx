@@ -1,0 +1,7 @@
+Security, Hardening, and Compliance.
+Ansible — Configure Firewall with iptables
+Terraform — Configure Security Groups for EC2
+Kubernetes — RBAC Configuration for Access Control
+Jenkinsfile — Secure Credentials Management
+GitLab CI/CD — Secure Deployment with Secrets Management
+Docker
