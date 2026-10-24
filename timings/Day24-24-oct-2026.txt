@@ -1,0 +1,6 @@
+Advanced Terraform Modules and CI/CD Pipeline Scaling
+Ansible — Deploy Docker Containers with Kubernetes Using Helm
+Terraform — Multi-Module Infrastructure with Outputs
+Kubernetes — Helm-based Auto-Scaling Deployments
+Jenkinsfile — Scaling CI/CD Pipeline
+Docker
