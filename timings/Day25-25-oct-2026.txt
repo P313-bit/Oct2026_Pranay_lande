@@ -1,0 +1,7 @@
+Continuous Monitoring and Alerts
+Ansible — Setup Prometheus Node Exporter for Monitoring
+Terraform — Create CloudWatch Alarms
+Kubernetes — Set Up Prometheus and Grafana
+Jenkinsfile — Continuous Monitoring and Alerts in CI Pipeline
+GitLab CI/CD — Monitoring and Alerting in CI/CD Pipeline
+Docker
