@@ -1,0 +1,7 @@
+Security Best Practices
+Ansible — Implementing SSH Key-based Authentication
+Terraform — Enabling VPC Flow Logs for Security
+Kubernetes — Network Policies for Security
+Jenkinsfile — Secure the Pipeline with Secrets
+GitLab CI/CD — Use GitLab Secrets for Secure Deployment
+Docker

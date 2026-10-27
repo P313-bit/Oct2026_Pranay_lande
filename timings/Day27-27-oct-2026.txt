@@ -1,0 +1,6 @@
+Serverless Scaling with Lambda and DynamoDB
+Ansible — Deploy Serverless Lambda Functions
+Terraform — Create DynamoDB Table for Serverless Application
+Kubernetes — Deploy Serverless Using Kubeless
+Jenkinsfile — Lambda Function Deployment Pipeline
+Docker
