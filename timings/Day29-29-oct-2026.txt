@@ -1,0 +1,6 @@
+Final Project Setup and Configuration
+Ansible — Complete Deployment Setup
+Terraform — Provisioning Multi-Tier Application with VPC and Security
+Kubernetes — Deploy Full Application Stack
+Docker
+Final Docker Project
