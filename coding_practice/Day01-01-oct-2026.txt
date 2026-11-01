@@ -1,4 +1,4 @@
-i- name: Install Nginx on Pranay server
+- name: Install Nginx on Pranay server
   hosts: all
   become: yes
   tasks:
